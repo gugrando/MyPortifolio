@@ -220,7 +220,7 @@ a:hover {
   background-color: rgb(0, 0, 0);
   z-index: 1000000;
   overflow: hidden;
-  background-image: url(./css/assets/Gif2Load.gif);
+  background-image: url(../css/assets/Gif2Load.gif);
   background-repeat: no-repeat;
   background-size:auto;
   background-position:top;
